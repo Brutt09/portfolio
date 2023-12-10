@@ -45,6 +45,13 @@ const projectData = [
     image: "/projects/attestme.png",
     gitUrl: "https://github.com/0xBenjamintan/attestMe",
   },
+  {
+    id: 7,
+    title: "Taskaru",
+    description: "This is a project for APUBCC Sparkathon & Solana Hyperdrive.",
+    image: "/projects/TASKARU.png",
+    gitUrl: "https://github.com/purrnama/apubcc-taskaru-anchor",
+  },
 ];
 
 const Project = () => {
