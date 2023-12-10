@@ -20,7 +20,7 @@ const projectData = [
   {
     id: 3,
     title: "FundChat",
-    description: "This is a project for APUBCC Sparkathon & Solana Hyperdrive.",
+    description: "This is a project.",
     image: "/projects/FundChat.png",
     gitUrl: "https://github.com/cheongyeechian/portfolio",
   },
